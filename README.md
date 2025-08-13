@@ -1,4 +1,4 @@
-# uiux-literasi-digital
+# UI/UX-Literasi-Digital
 Case study UI/UX untuk platform literasi digital. Tujuan proyek: membuat pengalaman pengguna lebih intuitif dan interaktif.
 
 ## Skill & Tools
